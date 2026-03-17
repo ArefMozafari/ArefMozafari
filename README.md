@@ -5,7 +5,7 @@ Flutter • Go • Rust • Networking • Web3
 
 - 🔭 Currently working on mobile apps +  networking tools + flutter intergration
 - ⚡ Focused on performance, low-level integrations, and scalability
-- 🎵 Singer & electronic / melodic trap enthusiast
+- 🎵 Singer & music enthusiast
 
 ### Featured Work
 - 🚀 Flutter Password Validator – Flutter plugin for validating password inputs
